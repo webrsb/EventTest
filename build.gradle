@@ -1,0 +1,11 @@
+plugins {
+    id 'org.spongepowered.plugin' version '0.6'
+}
+
+group 'webrsb'
+version '0.0.1-SNAPSHOT'
+description = 'Test UseItemStackEvent'
+
+dependencies {
+    compile 'org.spongepowered:spongeapi:4.1.0'
+}
